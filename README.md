@@ -20,12 +20,6 @@ This project:
 
 ---
 
-## Repo name
-
-Suggested repo name: **`spy-next-day-direction-ml`**
-
----
-
 ## Dataset
 
 The script downloads this Kaggle dataset via `kagglehub`:
